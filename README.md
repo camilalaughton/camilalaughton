@@ -7,4 +7,5 @@ Estudante de Ciência da Computação, consolidando minhas bases em **HTML, CSS 
 🌱 Também estudando inglês, com meta de atingir o nível intermediário até o fim do ano
 
 🔗 [Meus projetos](https://camilalaughton.github.io/exercicios-frontend/)
+
 📫 milalaughton@hotmail.com
