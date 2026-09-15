@@ -9,3 +9,5 @@ Estudante de Ciência da Computação, consolidando minhas bases em **HTML, CSS 
 🔗 [Meus projetos](https://camilalaughton.github.io/exercicios-frontend/)
 
 📫 milalaughton@hotmail.com
+
+💼 www.linkedin.com/in/camila-laughton-882a35431
